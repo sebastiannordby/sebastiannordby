@@ -1,9 +1,5 @@
 - 👋 Hi, I’m @sebastiannordby
-- 👀 I’m interested in learning.
-- 🌱 I’m currently learning more in depth SQL.
+- 👀 I’m interested in learning about computers and programming them.
+- 🌱 I’m currently learning more in depth SQL, Design Patters + more.
 - 📫 How to reach me: sebastianbjornstad@hotmail.com
 
-<!---
-sebastiannordby/sebastiannordby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
