@@ -1,4 +1,19 @@
 - 👋 Hi, I’m @sebastiannordby
-- ![image](https://user-images.githubusercontent.com/24465003/220744161-bf5dfcd6-82bc-4ce3-b8c9-c0ce4e4d393d.png) Fullstack developer based in Norway 
+- Fullstack developer based in Norway
+- Can reach me at: https://www.linkedin.com/in/sebastian-nordby-b45087152/
 
-https://www.linkedin.com/in/sebastian-nordby-b45087152/
+
+Normal everyday stack:
+- C#
+- Blazor
+- TSQL/EntityFramework
+- Javascript/CSS/SCSS/HTML
+
+Technologies/languages/framework i know
+- Java
+- Typescript
+- Angular
+- React
+- SCSS
+- Tailwind/Bootstrap
+
