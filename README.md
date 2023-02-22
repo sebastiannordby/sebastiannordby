@@ -9,7 +9,7 @@ Normal everyday stack:
 - TSQL/EntityFramework
 - Javascript/CSS/SCSS/HTML
 
-Technologies/languages/framework i know
+Other languages/framework/technologies i know
 - Java
 - Typescript
 - Angular
