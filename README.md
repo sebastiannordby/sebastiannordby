@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @sebastiannordby
-- 🧙 I’m interested in learning about computers and programming them.
+- 🇳🇴 Fullstack developer based in Norway 
 
-
+https://www.linkedin.com/in/sebastian-nordby-b45087152/
