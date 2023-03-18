@@ -1,5 +1,5 @@
-Hello 👋🏼 I'm Sebastian🧙 
-A fullstack developer based in Norway.
+Hello 👋🏼 </br>I'm Sebastian🧙 
+</br>A fullstack developer based in Norway.
 Currently i'm working at ECIT WLCOM AS based in Jessheim/Gardermoen, and simultaneously taking a bachelor's degree at Høyskolen Kristiania 🎓
 
 Normal everyday stack:
