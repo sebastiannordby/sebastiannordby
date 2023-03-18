@@ -1,7 +1,6 @@
-Hello 👋🏼 
-</br>I'm Sebastian🧙 
-</br>A fullstack developer based in Norway.
-</br>Currently i'm working at ECIT WLCOM AS based in Jessheim/Gardermoen, and simultaneously taking a bachelor's degree at Høyskolen Kristiania 🎓
+<h1>I'm Sebastian🧙 </h1> 
+<h2>A fullstack developer based in Norway. </h2>
+<h3>Currently i'm working at ECIT WLCOM AS based in Jessheim/Gardermoen, and simultaneously taking a bachelor's degree at Høyskolen Kristiania 🎓</h3>
 
 Normal everyday stack:
 - C# & ASP.Net/Core
