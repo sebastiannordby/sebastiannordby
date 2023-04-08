@@ -1,6 +1,6 @@
 <h1>I'm Sebastian🧙 </h1> 
 <h2>A fullstack developer based in Norway. </h2>
-<h3>Currently i'm working at ECIT WLCOM AS based in Jessheim/Gardermoen, and simultaneously taking a bachelor's degree at Høyskolen Kristiania 🎓</h3>
+<h3>Currently working at ECIT WLCOM AS, as software company based in Jessheim/Gardermoen, and simultaneously taking a bachelor's degree at Høyskolen Kristiania 🎓</h3>
 
 <h4>Normal everyday stack:<h4/>
 <ul>
