@@ -20,3 +20,5 @@
 </ul>
 
 Can reach me at: https://www.linkedin.com/in/sebastian-nordby-b45087152/
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastiannordby)](https://github.com/anuraghazra/github-readme-stats)
