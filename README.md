@@ -15,9 +15,12 @@ Reach me at LinkedIn: https://www.linkedin.com/in/sebastian-nordby-b45087152/
 
 <h4>Other languages/framework/technologies i know<h4/>
 <ul>
-  <li>Java</li>
-  <li>Angular</li>
-  <li>React</li>
-  <li>MongoDB</li>
+  <li>Java (moderate)</li>
+  <li>Angular (moderate)</li>
+  <li>React (moderate)</li>
+  <li>MongoDB (moderate)</li>
+  <li>C (moderate)</li>
 </ul>
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiannordby)](https://github.com/anuraghazra/github-readme-stats)
