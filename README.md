@@ -2,6 +2,8 @@
 <h2>A fullstack developer based in Norway. </h2>
 <h3>Currently working at ECIT WLCOM AS, as software company based in Jessheim/Gardermoen, and simultaneously taking a bachelor's degree at Høyskolen Kristiania 🎓</h3>
 
+Reach me at LinkedIn: https://www.linkedin.com/in/sebastian-nordby-b45087152/
+
 <h4>Everyday stack:<h4/>
 <ul>
   <li>C# & ASP.Net/Core</li>
@@ -19,6 +21,3 @@
   <li>MongoDB</li>
 </ul>
 
-Can reach me at: https://www.linkedin.com/in/sebastian-nordby-b45087152/
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sebastiannordby&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
