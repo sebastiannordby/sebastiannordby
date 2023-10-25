@@ -22,5 +22,9 @@ Reach me at LinkedIn: https://www.linkedin.com/in/sebastian-nordby-b45087152/
   <li>C (moderate)</li>
 </ul>
 
+Projects worth looking at:
+- https://github.com/sebastiannordby/mini-e-commerce-microservices
+- https://github.com/sebastiannordby/SharpCRUD
+- https://github.com/sebastiannordby/GoblinFarm/tree/master
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sebastiannordby)](https://github.com/anuraghazra/github-readme-stats)
