@@ -20,6 +20,8 @@ Reach me at LinkedIn: https://www.linkedin.com/in/sebastian-nordby-b45087152/
   <li>React (moderate)</li>
   <li>MongoDB (moderate)</li>
   <li>C (moderate)</li>
+  <li>Terraform (moderate)</li>
+  <li>AWS and Azure (basic)</li>
 </ul>
 
 
