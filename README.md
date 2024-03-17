@@ -21,7 +21,8 @@ Reach me at LinkedIn: https://www.linkedin.com/in/sebastian-nordby-b45087152/
   <li>MongoDB (moderate)</li>
   <li>C (moderate)</li>
   <li>Terraform (moderate)</li>
-  <li>AWS and Azure (basic)</li>
+  <li>Azure (moderate)</li>
+  <li>AWS(basic)</li>
 </ul>
 
 
