@@ -15,11 +15,11 @@ Reach me at LinkedIn: https://www.linkedin.com/in/sebastian-nordby-b45087152/
 
 <h4>Other languages/framework/technologies i know<h4/>
 <ul>
-  <li>Java (moderate)</li>
+  <li>Java (Basics)</li>
   <li>Angular (moderate)</li>
   <li>React (moderate)</li>
   <li>MongoDB (moderate)</li>
-  <li>C (moderate)</li>
+  <li>C (Basics)</li>
   <li>Terraform (moderate)</li>
   <li>Azure (moderate)</li>
   <li>AWS(basic)</li>
